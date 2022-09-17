@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @patrickmaganga
+- 👋 Hi, I’m Celestine Akinyi
 - 👀 I’m interested in frontend development.
 - 🌱 I’m currently learning web development using html,css and javascript.
 - 💞️ I’m looking to collaborate on open source softwares.
